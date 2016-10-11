@@ -1,0 +1,9 @@
+Package: com.shade.stealmeme
+Name: StealMeme
+Depends: mobilesubstrate, preferenceloader
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Replace instances of "Save Image" with "Steal Meme" per Reddit Request
+Maintainer: Shade Zepheri <ziroalpha@gmail.com>
+Author: Shade Zepheri <ziroalpha@gmail.com>
+Section: Tweaks

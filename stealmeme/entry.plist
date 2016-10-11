@@ -1,0 +1,11 @@
+{
+	entry = {
+		cell = PSSwitchCell;
+		defaults = "com.shade.stealmeme";
+		label = "StealMeme";
+		key = enabled;
+		default = 1;
+		icon = "/Applications/Preferences.app/icon-table@2x.png";
+		PostNotification = "com.shade.stealmeme/ReloadPrefs";
+	};
+}
